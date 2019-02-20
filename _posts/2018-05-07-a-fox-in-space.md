@@ -35,6 +35,8 @@ Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-o
 * list item
 * list item
 
+{% include home-search.html %}
+
 1. list item
 2. list item
 3. list item

@@ -29,6 +29,8 @@ Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-o
 
 *Bushwick* [marfa]('http://google.com') wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. [Fanny](http://google.com) pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
 
+{% include home-value.html %}
+
 Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven't heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90's fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
 {% include pullquote.html %}
