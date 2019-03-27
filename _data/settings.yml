@@ -1,92 +1,51 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+title: High Functioning Hot Messes
+description: Podcast Wannabes just talking current events, blackout nights, pop culture, and anything else we think our listeners wanna hear us ramble on about.
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Sponsor Us
+    url: /sponsor-us/
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
 
 client:
-  name:
-  title:
-  license_number:
+  name: Emma and Jamar
   about_markdown: |
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
   email:
-  url:
-
-CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
-  second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
-
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
-
-lender:
-  show_section: false
-  header_text: Preferred Lender
-  headshot_path: /img/lender-headshot.jpg
-  logo_path: /img/lender-logo.png
-  name:
-  license_number:
-  company:
-  company_license_number:
-  phone:
-  email:
-  url:
+    CTA_title: "Want to Sponsor Us?"
+    CTA_text: "Are you thinking of new and exciting ways to get your product out there to all of our listeners? We can help you. We have no standards."
+    CTA_link_text: "Whore Yourself Out"
+    CTA_url: /sponsor-us/
 
 socials:
   review_sm_icons: false
   facebook_url:
   linkedin_url:
-  youtube_url:
+  youtube_url: https://www.youtube.com/channel/UCXmLDr0xmOOWlGxmuTNGSHw
   twitter_url:
-  instagram_url:
-  pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
+  instagram_url: https://instagram.com/emma_drews
   podcast_url:
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  title: 'High Functioning Hot Messes'
+  categories: Comedy
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: '-- CLIENT NAME --'
+  subtitle: 'Listen and learn how to live your best life from two high functioning hot messes.'
+  description: 'Podcast Wannabes just talking current events, blackout nights, pop culture, and anything else we think our listeners wanna hear us ramble on about.'
+  keywords: 'High Functioning Hot Messes, Love Life, Sex Life, Blackouts, Wine Nights, Current Events, Pop Culture, Podcast'
+  author: 'Emma and Jamar'
 
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /img/emma.jpg
+  client_headshot2_path: /img/jamar.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 80
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -94,8 +53,10 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#E3C0BF'
+  theme_color: '#1b3053'
+  dark_accent: '#23453A'
+  light_accent: '#c0e8e1'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

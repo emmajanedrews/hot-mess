@@ -10,7 +10,7 @@ li
 	font-size: 18px
 //fonts
 $bodyfont: 'Source Sans Pro', helvetica, arial, sans-serif
-$headerfont: 'Source Sans Pro', helvetica, arial, sans-serif
+$headerfont: 'Playfair Display', serif
 
 //colors
 // If this is a really light color, you're going to have to mess around with some other settings.
@@ -18,6 +18,8 @@ $brand: {{site.data.settings.site_colors.brand_color}}
 $brand-light: lighten($brand, 20%)
 $brand-dark: darken($brand, 10%)
 $theme: {{site.data.settings.site_colors.theme_color}}
+$dark_accent: {{site.data.settings.site_colors.dark_accent}}
+$light_accent: {{site.data.settings.site_colors.light_accent}}
 $theme-text: {{ site.data.settings.site_colors.theme_text_color }}
 $theme-body-text: {{site.data.settings.site_colors.main_body_text_color}}
 $theme-body-color: {{site.data.settings.site_colors.main_body_color}}
@@ -76,7 +78,6 @@ $icon-fill: $light-text
 @import "vendor/bourbon/bourbon"
 @import "vendor/owl.carousel"
 
-@import "lender"
 @import "cta-sidebar"
 @import "media-player"
 @import "navigation"
@@ -88,12 +89,9 @@ $icon-fill: $light-text
 @import "posts"
 @import "socials"
 @import "search"
-@import "reviews"
 @import "about"
 @import "footer"
 @import "testimonials"
 @import "forms"
 @import "buttons"
 @import "custom"
-@import "recruiting"
-@import "emma-form"
