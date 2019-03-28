@@ -7,7 +7,7 @@
     <description>Podcast Wannabes just talking current events, blackout nights, pop culture, and anything else we think our listeners wanna hear us ramble on about.</description>
     <language>en</language>
     <managingEditor>Emma and Jamar</managingEditor>
-    <lastBuildDate>2019-03-28 17:09:22 -0500</lastBuildDate>
+    <lastBuildDate>2019-03-28 18:06:15 -0500</lastBuildDate>
     <media:copyright>Emma and Jamar</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>High Functioning Hot Messes, Love Life, Sex Life, Blackouts, Wine Nights, Current Events, Pop Culture, Podcast</media:keywords>
@@ -25,39 +25,35 @@
       <itunes:category text="Comedy"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>Episode 001: Single... Until Further Notice</title>
+        <link>http://localhost:4000/single-until-further-notice.html</link>
         
-          <category>Market Update</category>
+          <category>Love Life</category>
         
-          <category>Real Estate</category>
+          <category>Hot Messes</category>
         
-          <category>Home Seller Tips</category>
+          <category>Wine Nights</category>
         
         <author>Emma and Jamar</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-03-28 00:00:00 -0500</pubDate>
+        <guid>https://archive.org/details/test_episode_201903</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+This is our first episode and like we said: felt cute, might delete later. We had soooo much fun recording this but it was way too long and was drunkenly edited.
+“Deal With It”
+We talk birthdays, Jamar’s birthday funeral, the JT concert, and whatever else we rambled on to.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Love You Guys, Subscribe to hear more!
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
+        <enclosure url="https://archive.org/details/test_episode_201903" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <media:content url="https://archive.org/details/test_episode_201903" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Our very first episode, felt cute, might delete later.</itunes:subtitle>
         <itunes:author>Emma and Jamar</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Our very first episode, felt cute, might delete later.</itunes:summary>
         <itunes:keywords>High Functioning Hot Messes, Love Life, Sex Life, Blackouts, Wine Nights, Current Events, Pop Culture, Podcast</itunes:keywords>
       </item>
       
