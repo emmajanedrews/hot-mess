@@ -6,7 +6,7 @@ tags:
   - Love Life
   - Hot Messes
   - Wine Nights
-excerpt: 'Our very first episode, felt cute, might delete later.'
+excerpt: 'Our very first episode. Felt cute, might delete later.'
 enclosure: https://archive.org/details/test_episode_201903
 pullquote: Deal With It
 enclosure_type: video/mp4

@@ -13,8 +13,12 @@ custom_links_new_tab:
 client:
   name: Emma and Jamar
   about_markdown: |
+    Emma and Jamar provide your with their insight on the latest pop culture trends, current events, and daily activities. From... you guessed it... smack dab in the middle of the United States. Omaha, mother fucking, Nebraska, bitches. They might agree on a topic, might not. Or they might get completely off track that you can't even follow their train of thought. Whatever, you're the one listening. But no, for real, this podcast is just for fun... although Emma and Jamar are NOT opposed to quitting their 9-5 jobs and doing this, like, professionally. So if you know of any sponsors out there who would be interested, send them this way.
 
-  email:
+    **We want to stress:** the main goal of this podcast is to solve world peace. Aren't we all  just trying to do our part?
+
+    For bookings and personal appearances, contact <a href="mailto:ayyy@highfunctioninghotmesses.com">ayyy@highfunctioninghotmesses.com</a>
+  email: ayyy@highfunctioninghotmesses.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
