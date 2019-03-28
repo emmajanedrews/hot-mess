@@ -7,7 +7,7 @@ tags:
   - Hot Messes
   - Wine Nights
 excerpt: 'Our very first episode. Felt cute, might delete later.'
-enclosure: https://archive.org/details/test_episode_201903
+enclosure: https://ia601500.us.archive.org/28/items/test_episode_201903/test_episode.mp4
 pullquote: Deal With It
 enclosure_type: video/mp4
 enclosure_time:

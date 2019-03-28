@@ -7,7 +7,7 @@
     <description>Podcast Wannabes just talking current events, blackout nights, pop culture, and anything else we think our listeners wanna hear us ramble on about.</description>
     <language>en</language>
     <managingEditor>Emma and Jamar</managingEditor>
-    <lastBuildDate>2019-03-28 18:41:11 -0500</lastBuildDate>
+    <lastBuildDate>2019-03-28 18:53:09 -0500</lastBuildDate>
     <media:copyright>Emma and Jamar</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>High Functioning Hot Messes, Love Life, Sex Life, Blackouts, Wine Nights, Current Events, Pop Culture, Podcast</media:keywords>
@@ -36,7 +36,7 @@
         
         <author>Emma and Jamar</author>
         <pubDate>2019-03-28 00:00:00 -0500</pubDate>
-        <guid>https://archive.org/details/test_episode_201903</guid>
+        <guid>https://ia601500.us.archive.org/28/items/test_episode_201903/test_episode.mp4</guid>
         <description>
 
 This is our first episode and like we said: felt cute, might delete later. We had soooo much fun recording this but it was way too long and was drunkenly edited.
@@ -47,9 +47,9 @@ We talk birthdays, Jamar’s birthday funeral, the JT concert, and whatever else
 Love You Guys, Subscribe to hear more!
 
 </description>
-        <enclosure url="https://archive.org/details/test_episode_201903" length="" type="video/mp4"/>
+        <enclosure url="https://ia601500.us.archive.org/28/items/test_episode_201903/test_episode.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
-        <media:content url="https://archive.org/details/test_episode_201903" type="video/mp4"/>
+        <media:content url="https://ia601500.us.archive.org/28/items/test_episode_201903/test_episode.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our very first episode. Felt cute, might delete later.</itunes:subtitle>
         <itunes:author>Emma and Jamar</itunes:author>
