@@ -1,7 +1,7 @@
 .hero-img
 	background-position: center
 	background-size: cover
-	padding-top: $nav-height + 5rem
+	padding-top: 7rem
 #hero
 	background-position: center
 	background-size: cover
@@ -24,9 +24,29 @@
 	padding-top: 1rem
 	margin-bottom: 0
 
+.header-link
+	padding: 2rem 0 3rem 0
+	a
+		background: $theme
+		color: #f4f6fa
+		border: 1px solid $theme
+		padding: 10px 20px
+		text-decoration: none
+		font-size: 18px
+		+transition
+		&:hover
+			background: $dark_accent
+			color: #f4f6fa
+			border: 1px solid $dark_accent
+		&:active
+			box-shadow: 0 0 0 $brand
+			@include transform(translateY(0rem))
+
 @media (max-width: 1100px)
 	.site-title
 		font-size: 5rem
+	.header-link
+		margin: 1rem 0 3rem 0
 
 @media (max-width: 1000px)
 	.site-logo
@@ -47,8 +67,8 @@
 	.site-logo
 		max-width: 40rem
 		margin-top: 2rem
-	.site-title
-		font-size: 3.5rem
+	.header-link
+		margin: 2rem 0 0 0
 	.cta
 		padding: 1rem
 @media (max-width: 400px)
