@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KUJxH36dXCc
+youtube_code: HuHsO6mNumg
 ---
 {% include youtube.html %}
 This is our first episode and like we said: felt cute, might delete later. We had soooo much fun recording this but it was way too long and was drunkenly edited.

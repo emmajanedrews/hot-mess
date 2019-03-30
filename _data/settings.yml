@@ -22,7 +22,7 @@ client:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "Want to Sponsor Us?"
+    CTA_title: "Wanna Sponsor Us?"
     CTA_text: "Are you thinking of new and exciting ways to get your product out there to all of our listeners? We can help you. We have no standards."
     CTA_link_text: "Whore Yourself Out"
     CTA_url: /sponsor-us/
